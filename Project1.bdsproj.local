@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/03/30 18:12:53.046.pas,f:\Programiranje\Delphi\Projekti\SnDRelizMan\Unit4.pas=F:\Programiranje\Delphi\Projekti\SnDRelizMan\frmSettings.pas</Transaction>
+    <Transaction>2007/03/30 18:12:53.046.dfm,f:\Programiranje\Delphi\Projekti\SnDRelizMan\Unit4.dfm=F:\Programiranje\Delphi\Projekti\SnDRelizMan\frmSettings.dfm</Transaction>
+    <Transaction>2007/03/30 21:21:57.625.pas,f:\Programiranje\Delphi\Projekti\SnDRelizMan\frmSettings.pas=F:\Programiranje\Delphi\Projekti\SnDRelizMan\UfrmSettings.pas</Transaction>
+    <Transaction>2007/03/30 21:21:57.625.dfm,f:\Programiranje\Delphi\Projekti\SnDRelizMan\frmSettings.dfm=F:\Programiranje\Delphi\Projekti\SnDRelizMan\UfrmSettings.dfm</Transaction>
+    <Transaction>2007/04/03 17:02:55.265.pas,f:\Programiranje\Delphi\Projekti\SnDRelizMan\Unit3.pas=</Transaction>
+    <Transaction>2007/04/03 17:02:55.281.dfm,f:\Programiranje\Delphi\Projekti\SnDRelizMan\Unit3.dfm=</Transaction>
+    <Transaction>2007/04/06 13:14:25.640.pas,f:\Programiranje\Delphi\Projekti\SnDRelizMan\Unit3.pas=F:\Programiranje\Delphi\Projekti\SnDRelizMan\UMyStringUtils.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,44 @@
+RelizMan History
+~~~~~~~~~~~~~~~~
+Legend:
+ [*] - fix, modification
+ [+] - added
+ [-] - removed
+~~~~~~~~~~~~~~
+
+(2007-04-03) v2.1
+ [+] - Added sticky attachments
+ [+] - Drag&Drop to attachments
+ [+] - Auto install notes
+ [+] - Required attachments warnings
+ [+] - QuickPaste(TM)
+ [-] - Patch maker removed.
+ [*] - New file name (Application.Name.v3.10.keygen-SND.zip)
+ [*] - New NFO from RMRS (awsome work HaliphaX!)
+ [*] - Moved and splitted "Include ... in NFO" checkbox to be more obvious 
+
+(2003-04-12) v2.0
+ [+] - PATCH  MAKER  integreation!  Yeah!  Patch  look  is  very
+       customisable.  Produces patches down to 3 KB size! Thanks
+       to  patch  ASM  source author. Dunno who he is beacouse I
+       found this source in several places.
+ [*] - Method  of text justification changed. Now it's more user
+       friendly  and  there  is ability of justifying paragraphs
+       (as requested by TheDutchJewel).
+ [*] - Many minor bug fixes.
+       
+(2003-02-13) v1.1b
+ [*] - PE-PROTECTOR caused RelizMan not to function on WinXP
+ [*] - minor fixes
+
+(2003-01-31) v1.1
+ [+] - added abitily to include/exclude certain parts of NFO
+ [+] - added ability to add more OSs and Reliz types
+ [+] - now program saves last path we choose for reliz saving
+ [*] - Up-Down buttons in Crew window fixed
+ [*] - Justifying bugs
+ [*] - Annoying floppy checking on startup removed
+ [*] - Minor bugs fixed
+
+(2003-01-28) v1.0
+- First public release.
