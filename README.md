@@ -6,4 +6,4 @@ Seek N Destroy (SND).
 
 Relise manager for cracks programmed in Delphi.
 
-[Original package](https://defacto2.net/f/a41896f)
+[Original package](https://defacto2.net/f/a31b7c0)
